@@ -1,6 +1,6 @@
-# project23
-loadstring(game:HttpGet(('htt# Lotus Point ✨
-
+# Future Ready Talent Project
+loadstring(game:HttpGet(('htt
+# Lotus Point
 ### This web-based health and fitness application was developed for the Future Ready Talent Internship Programme, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 ### Professional website for Yoga, Pilates, Meditation, Spa, Wellness, Sports & Health, Personal Coach
@@ -13,9 +13,9 @@ loadstring(game:HttpGet(('htt# Lotus Point ✨
 - Contains several graphical and visual creative effects.
 - Have visually appealing visual design and architecture.
 - Comprises a number of web sites such as Home, Services, Gallery, Classes, and Contact Us .
-- The website allows the user to take a classes, workshops on fitness.
+- The website allows the user to take classes classes, workshops on fitness.
 - Added a feedback Survey form to broaden the scope of improvement.
-- serves as a yoga school, retreat center, holistic center, therapists, wellness and spa center or fitness club
+- serves as a yoga school, retreat center, holistic center, therapy center, wellness and spa center or fitness club
 
 ## Screenshots 📸
 ### About Us
@@ -35,16 +35,17 @@ loadstring(game:HttpGet(('htt# Lotus Point ✨
 ### Fitness Classes 
 ![Screenshot 2023-08-11 210919](https://github.com/HarithaBangaru/project23/assets/113615474/30c29c3b-b536-4c7b-94b4-4093b731239b)
 
-![Screenshot 2023-08-11 211019](https://github.com/HarithaBangaru/project23/assets/113615474/ebfd7e77-f861-4862-b45d-4559adefcb4c)
+![Screenshot 2023-08-11 211135](https://github.com/HarithaBangaru/project23/assets/113615474/ced72e77-fcfd-4295-8145-da0dc51b8db6)
 
 ### Gallery
- ![Screenshot 2023-08-11 211135](https://github.com/HarithaBangaru/project23/assets/113615474/ced72e77-fcfd-4295-8145-da0dc51b8db6)
+ 
+ ![Screenshot 2023-08-11 211019](https://github.com/HarithaBangaru/project23/assets/113615474/ebfd7e77-f861-4862-b45d-4559adefcb4c)
 
 ### Testimonials
 
 ![Screenshot 2023-08-11 211149](https://github.com/HarithaBangaru/project23/assets/113615474/32f74dc4-340b-454f-bc72-36753c1d165c)
 
-### Conact Us 
+### Contact Us 
 ![Screenshot 2023-08-11 211204](https://github.com/HarithaBangaru/project23/assets/113615474/b2c78133-e84a-44f6-89c0-b7245cf03f49)
 
 ## Technology Stack 💻
