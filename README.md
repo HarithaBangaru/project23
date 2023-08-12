@@ -1,19 +1,20 @@
 # Future Ready Talent Project
-loadstring(game:HttpGet(('htt
+
+
 # Lotus Point
 ### This web-based health and fitness application was developed for the Future Ready Talent Internship Programme, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 ### Professional website for Yoga, Pilates, Meditation, Spa, Wellness, Sports & Health, Personal Coach
 
-**Project Link** -
-**Demo Video** -  
+**Project Link** : https://black-beach-0cbf5ce00.3.azurestaticapps.net/
+
 
 ## Features and Functionalities  
 - A user interface that is both interactive and responsive.
 - Contains several graphical and visual creative effects.
 - Have visually appealing visual design and architecture.
 - Comprises a number of web sites such as Home, Services, Gallery, Classes, and Contact Us .
-- The website allows the user to take classes classes, workshops on fitness.
+- The website allows the user to take classes and workshops on fitness.
 - Added a feedback Survey form to broaden the scope of improvement.
 - serves as a yoga school, retreat center, holistic center, therapy center, wellness and spa center or fitness club
 
@@ -56,4 +57,4 @@ loadstring(game:HttpGet(('htt
 - Font awesome icons
 - Google Fonts
 - Bootstrap Framework
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScripts
