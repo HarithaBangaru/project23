@@ -2,11 +2,12 @@
 
 
 # Lotus Point
-### This web-based health and fitness application was developed for the Future Ready Talent Internship Programme, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
+### This web-based health and fitness application was developed for the Future Ready Talent Internship Program, which was launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-### Professional website for Yoga, Pilates, Meditation, Spa, Wellness, Sports & Health, Personal Coach
+### Professional website for Yoga, Pilates, Meditation, Spa, Wellness, Sports & Health, and Personal Coach
 
 **Project Link** : https://black-beach-0cbf5ce00.3.azurestaticapps.net/
+**Demo video link** :https://youtu.be/n26rzyXjFDg
 
 
 ## Features and Functionalities  
@@ -53,7 +54,6 @@
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML5
 - CSS3
-- Bootstrap
 - Font awesome icons
 - Google Fonts
 - Bootstrap Framework
